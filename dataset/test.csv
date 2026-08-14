@@ -1,5 +1,2 @@
-﻿H2,CH4,C2H6,C2H4,C2H2,origin,IRM,DTM,DPM
-0.0,1.78,1.02,2.16,0.42,Normal,Normal,Normal,T3
-2587.2,7.88,4.7,1.4,0.0,PD,Unidentified,T1,PD
-5.5,9.2,7.7,2.0,0.0,Normal,Normal,Normal,T1
-46.9,161.6,94.1,193.3,0.56,T2,T2,T3,T2
+﻿H2,CH4,C2H6,C2H4,C2H2,origin
+2587.2,7.88,4.7,1.4,0.0,PD
